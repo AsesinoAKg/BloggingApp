@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BloggingApp/static/css/main.f4344b87.css",
+    "main.js": "/BloggingApp/static/js/main.62373f41.js",
+    "static/media/wallpaper.jpg": "/BloggingApp/static/media/wallpaper.070da80f9dc1c6f4f056.jpg",
+    "index.html": "/BloggingApp/index.html",
+    "main.f4344b87.css.map": "/BloggingApp/static/css/main.f4344b87.css.map",
+    "main.62373f41.js.map": "/BloggingApp/static/js/main.62373f41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4344b87.css",
+    "static/js/main.62373f41.js"
+  ]
+}
